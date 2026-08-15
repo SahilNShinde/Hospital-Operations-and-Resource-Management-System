@@ -7,6 +7,7 @@ A desktop application designed to automate administrative workflows, streamline 
 ## 📹 Video Demonstration
 
 Watch the working demo to see the system workflow, graphical user interface, and features in action:
+Just download this " Hospital Operations and Resource  Management System.mp4 " file
 * **[Watch System Demo Video](https://github.com/SahilNShinde/Hospital-Operations-and-Resource-Management-System/blob/master/Hospital%20Operations%20and%20Resource%20%20Management%20System.mp4)**
 
 ---------------------------------------------------------------
