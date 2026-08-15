@@ -41,5 +41,6 @@ A desktop application designed to automate administrative workflows, streamline 
 3. Open your terminal or command prompt and run:
    ```cmd
    java -jar "SEM -4 HOSPITAL MANAGEMENT SYSTEM.jar"
-### Some setup is required after downloading the jar file so for now refer the 
+### Some setup is required after downloading the jar file so for now refer the "Hospital Operations and Resource Management System.mp4" video to see the working 
+### the release will be done soon
 **
