@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System
+# 🏥 Hospital Operations and Resource Management System
 
 A desktop application designed to automate administrative workflows, streamline patient lifecycle management, and track real-time resource allocations for healthcare institutions.
 
