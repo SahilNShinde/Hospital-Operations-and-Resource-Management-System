@@ -2,7 +2,12 @@
 
 A desktop application designed to automate administrative workflows, streamline patient lifecycle management, and track real-time resource allocations for healthcare institutions.
 
-> **📥 Quick Download:** To run the application directly, download the compiled `.jar` file from the **[Releases Tab](https://github.com/SahilNShinde/Hospital-Management-System/releases/latest)**.
+---------------------------------------------------------------
+
+## 📹 Video Demonstration
+
+Watch the working demo to see the system workflow, graphical user interface, and features in action:
+* **[Watch System Demo Video](https://github.com/SahilNShinde/Hospital-Operations-and-Resource-Management-System/blob/master/Hospital%20Operations%20and%20Resource%20%20Management%20System.mp4)**
 
 ---------------------------------------------------------------
 
@@ -27,20 +32,4 @@ A desktop application designed to automate administrative workflows, streamline 
 * **Database Connectivity:** JDBC (`mysql-connector-java`)
 * **IDE:** IntelliJ IDEA
 
---------------------------------------------------------------
 
-## ⚙️ Installation & Setup
-
-### Prerequisites
-* **Java Runtime Environment:** JRE 21 or higher installed on your local machine.
-* **MySQL Server:** Installed and running on port `3306`.
-
-### Running via Executable (.jar)
-1. Navigate to the **[Releases](https://github.com/SahilNShinde/Hospital-Management-System/releases/latest)** section on the right sidebar.
-2. Download `SEM -4 HOSPITAL MANAGEMENT SYSTEM.jar`.
-3. Open your terminal or command prompt and run:
-   ```cmd
-   java -jar "SEM -4 HOSPITAL MANAGEMENT SYSTEM.jar"
-### Some setup is required after downloading the jar file so for now refer the "Hospital Operations and Resource Management System.mp4" video to see the working 
-### the release will be done soon
-**
